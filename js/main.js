@@ -308,7 +308,7 @@ $(document).ready(function() {
 
         // Account for home page with empty path
         if (path == '') {
-            path = 'home.html';
+            path = 'index.html';
         }
 
         var target = $('nav a[href="' + path + '"]');
