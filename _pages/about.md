@@ -18,8 +18,3 @@ Education
 * PhD in Informatics Engineering, University of Coimbra, 2021-present
 * MSc in Informatics Engineering specialized in Intelligent Systems, University of Coimbra, 2019-2021
 * BSc in Informatics Engineering, University of Coimbra, 2016-2019
-
-(Small) Achievements
----
-* 2023 - SPECIES Scholarship recipient, supervised by Eric Medvet and Luca Manzoni @ University of Trieste, Italy
-* 2023 - EvoStar Outstanding Student ([paper](https://jessicamegane.pt/publication/2023-04-12-afm))
