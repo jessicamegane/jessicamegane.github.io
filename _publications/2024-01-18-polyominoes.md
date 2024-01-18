@@ -3,7 +3,7 @@ title: "Grammar-based Evolution of Polyominoes"
 collection: publications
 permalink: /publication/2024-01-18-polyominoes
 date: 2024-01-18
-venue: European Conference on Genetic Programming (Part of EvoStar)
+venue: 27th European Conference on Genetic Programming (EuroGP), held in Aberystwyth (United Kingdom)
 authors: "Jessica Mégane, Eric Medvet, Nuno Lourenço, and Penousal Machado"
 ---
 Jessica Mégane, Eric Medvet, Nuno Lourenço, and Penousal Machado
