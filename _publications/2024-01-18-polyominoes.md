@@ -10,7 +10,7 @@ Jessica Mégane, Eric Medvet, Nuno Lourenço, and Penousal Machado
 
 ---
 
-[PDF](https://jessicamegane.pt/files/eurogp_polyominoes.pdf)  [Code](https://github.com/ericmedvet/jgea)
+[PDF](https://jessicamegane.pt/files/eurogp_polyominoes.pdf)  [Code](https://github.com/ericmedvet/jgea)  [Poster](https://jessicamegane.pt/files/eurogp_polyominoes_poster.pdf)
 
 Abstract
 ---
@@ -19,8 +19,8 @@ Languages that describe two-dimensional (2-D) structures have emerged as powerfu
 
 DOI
 ---
-Waiting for paper to be published
+https://doi.org/10.1007/978-3-031-56957-9_4
 
 Recommended citation
 ---
-Waiting for paper to be published
+Mégane, J., Medvet, E., Lourenço, N., Machado, P. (2024). Grammar-Based Evolution of Polyominoes. In: Giacobini, M., Xue, B., Manzoni, L. (eds) Genetic Programming. EuroGP 2024. Lecture Notes in Computer Science, vol 14631. Springer, Cham. https://doi.org/10.1007/978-3-031-56957-9_4
