@@ -8,6 +8,8 @@ authors: "Jessica Mégane, Eric Medvet, Nuno Lourenço, and Penousal Machado"
 ---
 Jessica Mégane, Eric Medvet, Nuno Lourenço, and Penousal Machado
 
+**Nominated for Best Paper of EuroGP**
+
 ---
 
 [PDF](https://jessicamegane.pt/files/eurogp_polyominoes.pdf)  [Code](https://github.com/ericmedvet/jgea)  [Poster](https://jessicamegane.pt/files/eurogp_polyominoes_poster.pdf)

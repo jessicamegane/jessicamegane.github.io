@@ -25,6 +25,7 @@ Research
 
 Conferences
 ======
+* 27th European Conference on Genetic Programming (EuroGP), Aberystwyth (United Kingdom), 3-5 April 2024
 * ACM Genetic and Evolutionary Computation Conference (GECCO), Lisbon (Portugal), 15-19 July 2023
 * 26th European Conference on Genetic Programming (EuroGP), Brno (Czech Republic), 12-14 April 2023
 * IEEE Congress on Evolutionary Computation (CEC), Padua (Italy), 18-23 July 2022
@@ -33,5 +34,5 @@ Conferences
 
 My small achievements
 ======
-* EvoStar 2024 Outstanding Student
+* EvoStar 2024 Outstanding Student, with a nomination for Best EuroGP Paper
 * EvoStar 2023 Outstanding Student, with a nomination for Best EuroGP Paper
