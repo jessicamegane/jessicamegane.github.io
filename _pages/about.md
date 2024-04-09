@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Welcome to my website! I am a PhD candidate at the University of Coimbra in Portugal, and I currently work as a researcher for the [Evolutionary and Complex Systems (ECOS)](https://www.cisuc.uc.pt/en/ECOS) group at the Centre for Informatics and Systems of the University of Coimbra (CISUC). I work with Probabilistic Grammatical Evolution, and its various iterations.
+Welcome to my website! I am a PhD candidate at the University of Coimbra in Portugal, and I currently work as a researcher for the [bio-inspired Artificial Intelligence (bAI)](https://www.cisuc.uc.pt/en/ECOS) group at the Centre for Informatics and Systems of the University of Coimbra (CISUC). I work with Probabilistic Grammatical Evolution, and its various iterations.
 
 Through my research, I aim to contribute to the field of evolutionary computation and explore its potential applications in various domains. As a researcher, I enjoy engaging with fellow researchers and discussing ideas to further our collective understanding of this exciting field. So, please feel free to get in touch if you'd like to collaborate or exchange ideas!
 
