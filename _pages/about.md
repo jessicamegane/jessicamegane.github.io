@@ -25,12 +25,12 @@ Research
 
 Conferences
 ======
-* 27th European Conference on Genetic Programming (EuroGP), Aberystwyth (United Kingdom), 3-5 April 2024
+* EvoStar conferences (EuroGP, EvoAPPS, EvoCOP, EvoMUSART), Aberystwyth (United Kingdom), 3-5 April 2024
 * ACM Genetic and Evolutionary Computation Conference (GECCO), Lisbon (Portugal), 15-19 July 2023
-* 26th European Conference on Genetic Programming (EuroGP), Brno (Czech Republic), 12-14 April 2023
-* IEEE Congress on Evolutionary Computation (CEC), Padua (Italy), 18-23 July 2022
+* EvoStar conferences (EuroGP, EvoAPPS, EvoCOP, EvoMUSART), Brno (Czech Republic), 12-14 April 2023
+* IEEE World Congress on Computational Intelligence (WCCI), Padua (Italy), 18-23 July 2022
 * ACM Genetic and Evolutionary Computation Conference (GECCO), Boston (USA), 9-13 July 2022
-* 24th European Conference on Genetic Programming (EuroGP), held online, 20-22 April 2022
+* EvoStar conferences (EuroGP, EvoAPPS, EvoCOP, EvoMUSART), held online, 20-22 April 2021
 
 My small achievements
 ======
