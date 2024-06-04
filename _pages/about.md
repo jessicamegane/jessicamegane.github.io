@@ -22,7 +22,7 @@ Education
 Research
 ======
 * Internship at [ERAL Lab](https://erallab.inginf.units.it/), University of Trieste, supported by a [SPECIES](https://species-society.org/) scholarship, March-May 2023
-* Researcher at [bAI Lab](https://www.cisuc.uc.pt/en/ECOS) at the Centre for Informatics and Systems of the University of Coimbra (CISUC), September 2019-now
+* Researcher at [bAI Lab](https://www.cisuc.uc.pt/en/ECOS) at the Centre for Informatics and Systems of the University of Coimbra (CISUC), September 2019-present
 
 Conferences
 ======
